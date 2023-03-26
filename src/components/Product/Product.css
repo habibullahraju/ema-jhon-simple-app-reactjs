@@ -1,0 +1,41 @@
+.product{
+    height: 510px;
+    width: 300px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    position: relative;
+}
+.product img{
+    width: 286px;
+    margin: 7px;
+    border-radius: 8px;
+    height: 286px;
+}
+.product-name{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: 0.0015em;
+
+color: #0E161A;
+margin: 0px;
+}
+.product-info{
+    margin-left: 12px;
+}
+.product-info p{
+    margin: 8px;
+}
+.addToCartBtn{
+    background: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.addToCartBtn:hover{
+    background-color: orange;
+}
