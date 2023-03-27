@@ -8,11 +8,9 @@
     grid-template-columns: repeat(3,1fr);
     gap: 20px;
 }
-.order-container{
-    background-color: #e4c38c;
-    padding-left: 20px;
-}
+
 .order-summary{
     text-align: center;
     font-size: 20px;
+    margin-top: 0px;
 }
