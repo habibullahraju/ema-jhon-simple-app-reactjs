@@ -4,7 +4,7 @@ import './Cart.css';
 const Cart = ({cart}) => {
    
  
-   console.log(cart);
+  
     let total = 0;
     let shippingCharge = 0;
     let quantity = 0;

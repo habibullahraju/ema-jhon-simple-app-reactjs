@@ -39,7 +39,7 @@ const Shop = () => {
             saveCart.push(addedProduct);
 
         }
-        console.log(addedProduct);
+       
         setCart(saveCart);
     }
    },[products])
